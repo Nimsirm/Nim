@@ -1,0 +1,68 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+#contenedor{
+
+    width: 1200px;
+    height: 1000px;
+    background:aquamarine;
+    margin: 0.5em auto;
+    padding: 0.5em; 
+
+}
+#header{
+height: 200px;
+background: hsl(103, 66%, 58%);
+border-radius: 1em;
+margin: 1em;
+}
+#nav{
+ height: 100px;
+ background: hsl(229, 61%, 31%);
+border-radius: 1em;
+margin: 1em;
+
+}
+#contenido{
+height: 500px;
+border-radius: 1em;
+margin: 1em;
+}
+#articulo{
+   width: 600px;
+   height: 400px;
+    background: hsl(167, 63%, 29%);
+border-radius: 1em;
+margin: 1em;
+}
+#section{
+height: 460px;
+width: 800px;
+background: #8182b1;
+float: left;
+margin: 1em;
+border-radius:  1em;
+
+
+}
+#aside{
+ height: 460px;
+ width: 300px; 
+ background: hsl(239, 66%, 58%);
+border-radius: 1em;
+margin: 1em;
+float: right;
+}
+#footer{
+height: 130px;
+background: hsl(347, 66%, 58%);
+border-radius: 1em;
+margin: 1em;
+}
